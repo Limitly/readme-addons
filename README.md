@@ -2,9 +2,8 @@ GitHub has given us 2 special blockquotes for our README's, but they aren't enou
 
 Here are the default ones:
 
-`> **Note**:`
+`> **Note**`
 
 > **Note**:
 
-`> **Warning**:`
-> **Warning**: 
+> **Warning**: `> **Warning**`
